@@ -27,3 +27,5 @@ Examples are shown bellow:
 # Complementary files
 
 You can find the physical explanation with more details about the double pendulum model in the file "doublependulum_physics.md" 
+
+The whole documentation is written in english, but my native language is portuguese. Therefore, all comments and some variables in the code is in portuguese.
